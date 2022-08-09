@@ -4,5 +4,4 @@ Learning the fundamentals of Ruby through [Kevin Skoglund's](https://github.com/
 
 ## Helpful Documentation
 
-[Docs](docs/)
-[Ruby Basics](docs/ruby.md)
+[Docs](docs/) | [Ruby Basics](docs/ruby.md)
