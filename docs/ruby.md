@@ -24,4 +24,4 @@ Access docs from terminal using Ruby Information:<br>
 
 > ri [class name] => ri String<br>
 > ri [class name] => ri String.new (dot in front of some method name)<br>
-> ri [class name]#[method] => ri String#upcase
+> ri [class name]#[method] => ri String#upcase (hash for instance methods)
